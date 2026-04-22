@@ -1,38 +1,6 @@
-body {
-    font-family: Arial, sans-serif;
-    margin: 0;
-    background: #cfcfcf;
-    color: rgb(10, 10, 10);
+body{
+    background-color:lightgreen
 }
-
-header {
-    background: rgb(0, 0, 0);
-    color: rgb(255, 251, 251);
-    padding: 30px;
-    text-align: center;
+header{
+    background-color:lightpink
 }
-
-section {
-    background: rgb(194, 188, 188);
-    margin: 20px auto;
-    padding: 20px;
-    width: 80%;
-    border-radius: 8px;
-}
-
-.skill-list span {
-    display: inline-block;
-    background: #0a0a0a;
-    padding: 8px 12px;
-    margin: 5px;
-    border-radius: 5px;
-}
-
-footer {
-    background: #1e1e1e;
-    color: white;
-    text-align: center;
-    padding: 10px;
-}
-
-   
