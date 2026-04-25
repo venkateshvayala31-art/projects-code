@@ -1,6 +1,15 @@
+h1{
+    font: size 50px;
+    background-color:lightblue;
+}
 body{
-    background-color:lightgreen
+    font-family:'Courier New', Courier, monospace;
+    color:lightgreen;
+    background-color:black;
 }
 header{
-    background-color:lightpink
+    background-color:hotpink;
+    color:white;
+    text-align:center;
+    padding:10px;
 }
