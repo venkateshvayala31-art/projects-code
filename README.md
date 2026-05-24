@@ -4,8 +4,8 @@ Hi, I'm Vayala Venkatesh.
 
 ## About Me
 - Full Stack Web Developer Learner
-- Learning HTML, CSS, JavaScript
-- Building projects daily
+- Learning HTML, CSS, JavaScript Basics
+- Building daily learing skils
 - Goal: Become Professional Developer
 
 ## Projects
