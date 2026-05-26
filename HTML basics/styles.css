@@ -1,0 +1,89 @@
+label{
+    box-sizing: border-box;
+    color:rgb(240, 246, 235);
+    background-color:rgb(0, 0, 0);
+    line-height:1.5;
+}
+p{
+    text-align:inherit;
+    text-decoration:underline;
+}
+button{
+    color:rgb(226, 221, 225);
+    background-color:rgb(0, 0, 0);
+    
+}
+form{
+    color:paleturquoise;
+    background-color:rgb(33, 122, 13);
+    text-align:end;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    }
+main{
+    background-color:rgb(215, 2, 208);
+    text-align:center;
+    padding:1px;
+
+}
+img{
+    width:280px;
+    height:auto;
+    padding:5px;
+    box-decoration-break:initial;
+    border: 2px solid rgb(252, 252, 252);
+}
+ol{
+    text-align:center;
+    padding:1px;
+    font-size:13px;
+}
+h3{
+    color:#ffb301ec;
+    background-color:rgb(130, 29, 29);
+    text-align:center;
+    padding:1px;
+    font-size:20px;
+}
+h2{
+    color:blue;
+    background-color:aqua;
+    text-align:center;
+    padding:1px;
+}
+h1{
+    color:red;
+    background-color:rgb(0, 0, 115);
+    text-align:calc(90);
+
+}
+a{
+    color:red;
+    background-color:rgb(104, 205, 255);
+    text-decoration:small underline;
+}
+nav{
+    background-color:white;
+    color:lightcoral;
+    text-align:left;
+    text-decoration:underline;
+
+}
+*{
+    margin:2px;
+    padding:5px;
+
+}
+body{
+    background-color:black;
+    color:aliceblue;
+    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    padding:5px;
+}
+header{
+    background-color:aqua;
+    color:rgb(0, 0, 0);
+    text-align:center;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    padding:5px;
+    display: flexbox;
+}
