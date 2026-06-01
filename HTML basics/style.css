@@ -1,3 +1,76 @@
+footer{
+    background-color:rgb(49, 8, 8);
+    color:darkturquoise;
+    text-align:center;
+}
+form{
+    background-color:white;
+    color:black;
+    padding:3px;
+    text-align:center;
+}
+ul{
+    color:red;
+}
+ol{
+    color:red;
+
+}
+p{
+    color:rgb(4, 130, 239);
+    text-align:center;
+}
+button{
+    color:rgb(255, 255, 255);
+    background-color:black;
+
+}
+*{
+    margin:6px;
+    padding:1px;
+}
+img{
+    padding:100px;
+    width:400px;
+    height:400px;
+    display:block;
+
+}
+h3{
+    background-color:crimson;
+    color:skyblue;
+    text-align:center;;
+}
+h2{
+    background-color:white;
+    color:blue;
+    text-align:center;
+    font-family:system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    font-size:20px;
+}
+h4{
+    background-color:black;
+    text-align:center;
+    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+html{
+    background-color:rgb(255, 255, 255);
+    padding:1px;
+}
+h1{
+    background-color:rgb(8, 7, 8);
+    text-align:start;
+    color:rgb(207, 32, 32);
+}
+body{
+    background-color:black;
+    color:white;
+    padding:5px;
+}
 header{
-    color:aqua;
+    background-color:rgb(4, 130, 239);
+    color:white;
+    text-align:center;
+    padding:7px;
+    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
 }
