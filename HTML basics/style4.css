@@ -1,0 +1,28 @@
+@media (max-width: 786px){
+    .container{
+        flex-direction:column;
+    }
+}
+form{
+    background-color:rgb(255, 0, 0);
+    color:blue;
+    text-align:center;
+    text-transform:uppercase;
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+*{
+    margin:auto;
+    background-color:rgb(224, 234, 234);
+}
+h1{
+    background-color:cornflowerblue;
+    color:white;
+    padding:30px;
+    text-align:center;
+    text-transform:inherit;
+}
+body{
+    background-color:aqua;
+    color:burlywood;
+    padding:20px;
+}

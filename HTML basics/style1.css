@@ -1,0 +1,29 @@
+@media (max-width: 786px){
+    .container{
+        flex-direction:column;
+    }
+}
+p{
+    color:skyblue;
+}
+img{
+    width:200px;
+    height:200px;
+    border-radius:50%;
+}
+article{
+    background-color:rgba(12, 5, 55, 0.766);
+    color:white;
+}
+header{
+    background-color:red;
+    color:blue;
+}
+div{
+    background-color:rgba(12, 5, 55, 0.766);
+    color:rgb(255, 0, 255);
+    padding:20px;
+    text-align:center;
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size:medium;
+}
